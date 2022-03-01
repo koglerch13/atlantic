@@ -1,0 +1,32 @@
+{
+  "name": "atlantic",
+  "displayName": "Atlantic",
+  "description": "VS Code theme based on Oceanic Plus (Plus) and Cobalt Next",
+  "version": "0.1.0",
+  "publisher": "koglerch13",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koglerch13/atlantic"
+  },
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "theme": "dark",
+    "color": "#1b2b34"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atlantic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atlantic-theme.json"
+      }
+    ]
+  }
+}
