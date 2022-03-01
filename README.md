@@ -3,6 +3,8 @@
 VSCode theme based on Oceanic Plus Plus and Cobalt Next with some adaptions.
 Still very much a work in progress.
 
+Find it on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ckogler.atlantic)
+
 ![Screenshot](screenshot.png)
 
 ## Credits
