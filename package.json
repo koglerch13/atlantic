@@ -28,5 +28,8 @@
         "path": "./themes/atlantic-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.17.0"
   }
 }
