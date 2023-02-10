@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Atlantic",
   "type": "dark",
   "semanticHighlighting": true,
@@ -93,7 +94,6 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#65737e"
       }
     },
